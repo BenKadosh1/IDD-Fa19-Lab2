@@ -26,6 +26,8 @@ lcd.print("hello, world!");
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
+[Ben's Lowly Multimeter Code](https://github.com/BenKadosh1/IDD-Fa19-Lab2/blob/master/AnalogInput_Lab2_BK.ino)
+
 
 ## Part C. Using a time-based digital sensor
 
