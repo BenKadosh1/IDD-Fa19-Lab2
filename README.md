@@ -7,6 +7,9 @@
 ## Part B. Writing to the LCD
  
 **a. What voltage level do you need to power your display?**
+If we look at the pinout and dimensions page (link below) for the LCD, on page 4 in the "DC ELECTRICAL CHARACTERISTICS" section there is a line for Operating voltage for LCD, which reads Min, Typ, Max of 4.8, 5.0, 5.2 Volts respectively. Meaning the typical voltage needed to power the LCD is 5V +/- .2V.
+
+Link: https://cdn-shop.adafruit.com/product-files/181/p181.pdf
 
 **b. What voltage level do you need to power the display backlight?**
    
