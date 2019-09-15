@@ -7,11 +7,13 @@
 ## Part B. Writing to the LCD
  
 **a. What voltage level do you need to power your display?**
+
 If we look at the pinout and dimensions page (link below) for the LCD, on page 4 in the "DC ELECTRICAL CHARACTERISTICS" section there is a line for Operating voltage for LCD, which reads Min, Typ, Max of 4.8, 5.0, 5.2 Volts respectively. Meaning the typical voltage needed to power the LCD is 5V +/- .2V.
 
 Link: https://cdn-shop.adafruit.com/product-files/181/p181.pdf
 
 **b. What voltage level do you need to power the display backlight?**
+
 Similarly to part a. above, if we look at the pinout and dimensions page for the LCD, on page 4 in the "LED BACKLIGHT CHARACTERISTICS" section it describes the backlight as white (which we will see later in the lab) and that the operating voltage is 3.2V +/-.15V, which is in line with the 3.3V being fed out of the 3.3V pin in the arduino to pin 15 in the LCD which is the power supply for the LCD's backlight. 
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
