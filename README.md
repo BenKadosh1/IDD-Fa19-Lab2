@@ -1,10 +1,8 @@
 # Digital Timer
- 
-Include your responses to the bold questions below. Include snippets of code that explain what you did. Deliverables are due next Tuesday. Post your lab reports as README.md pages on your GitHub, and post a link to that on your main class hub page.
 
 ## Part A. Solder your LCD panel
 
-**Take a picture of your soldered panel and add it here!**
+<img src="https://github.com/BenKadosh1/IDD-Fa19-Lab2/blob/master/IDD_LAB_2_Soldered_LCD_Panel_Ben_K.jpg" width=450 height=450>
 
 ## Part B. Writing to the LCD
  
