@@ -43,6 +43,7 @@ Update line 36 of the code (listed below) and add a division by 2 to the end of 
 int noteDuration = 1000 / noteDurations[thisNote];
  
 **b. What song is playing?**
+
 Star Wars - Main Title
 
 ## Part E. Make your own timer
