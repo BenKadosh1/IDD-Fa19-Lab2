@@ -52,8 +52,8 @@ Star Wars - Main Title
 
 [Rotary Encoder Timer Youtube Link](https://www.youtube.com/watch?v=RvvwTF1TlhY&feature=youtu.be)
 
-[Ben's Rotary Encoder Timer Code](https://github.com/BenKadosh1/IDD-Fa19-Lab2/blob/master/Rotary_Encoder_Timer_BK.ino)
-
 [Ben's Rotary Encoder Timer In Action Youtube Link](https://www.youtube.com/watch?v=xwYbmF-tFNg&feature=youtu.be)
+
+[Ben's Rotary Encoder Timer Code](https://github.com/BenKadosh1/IDD-Fa19-Lab2/blob/master/Rotary_Encoder_Timer_BK.ino)
 
 Commentary: I used portions of the Rotary Encoder code to allow a user to manually set how long they want the timer to run before timing out, by rotating the rotary encoder and displaying the time on the LCD. I also used LCD code to display the values being read in by the Rotary Encoder. In order to signal that the desired time was met I established a protocol of rotating clockwise while setting and then turning the Rotary counter clock wise to stop incrementing the desired time and store the variable before counting down and displaying that to the user through the LCD. 
