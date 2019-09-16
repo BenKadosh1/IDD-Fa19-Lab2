@@ -49,4 +49,7 @@ Star Wars - Main Title
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
+[Rotary Encoder Timer Youtube Link](https://www.youtube.com/watch?v=RvvwTF1TlhY&feature=youtu.be)
+
+
 **b. Post a link to the completed lab report your class hub GitHub repo.**
