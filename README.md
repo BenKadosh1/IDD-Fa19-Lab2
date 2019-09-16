@@ -37,9 +37,13 @@ lcd.print("hello, world!");
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
+
+Update line 36 of the code (listed below) and add a division by 2 to the end of the equation so that the note duration is divided in half making it play twice as fast.
+
+int noteDuration = 1000 / noteDurations[thisNote];
  
 **b. What song is playing?**
-
+Star Wars - Main Title
 
 ## Part E. Make your own timer
 
