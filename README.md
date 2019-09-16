@@ -50,6 +50,8 @@ Star Wars - Main Title
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
 [Rotary Encoder Timer Youtube Link](https://www.youtube.com/watch?v=RvvwTF1TlhY&feature=youtu.be)
+[Ben's Rotary Encoder Timer Code](https://github.com/BenKadosh1/IDD-Fa19-Lab2/blob/master/Rotary_Encoder_Timer_BK.ino)
+
+Commentary: I used a Rotary Encoder to allow a user to manually set how long they want the timer to run before timing out, by rotating the rotary encoder and displaying the time on the LCD. 
 
 
-**b. Post a link to the completed lab report your class hub GitHub repo.**
