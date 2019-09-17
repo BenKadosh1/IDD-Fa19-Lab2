@@ -18,6 +18,8 @@ Similarly to part a. above, if we look at the pinout and dimensions page for the
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
+One mistake I originally made was forgetting to connect to pin 3 of the LCD. Before connecting to a power source I double checked everything and noticed I was missing a connection. 
+
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
 
 Line54 in the built-in code for display
